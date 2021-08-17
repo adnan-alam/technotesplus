@@ -1,0 +1,6 @@
+DJANGO_SECRET_KEY=django secret key
+DB_NAME=database name
+DB_USER=database username
+DB_PASSWORD=database password
+SENDGRID_API_KEY=sendgrid api key
+DEFAULT_FROM_EMAIL=example@email.com
